@@ -28,5 +28,5 @@ Perfect for penetration testing, password strength analysis, or educational purp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wordlist-generator.git
+   git clone https://github.com/Bandihok/wordlist-generator.git
    cd wordlist-generator
